@@ -13,3 +13,5 @@ echo "Hello $user, Today is: $current_date"
 echo "Here are your daily tasks:"
 task list
 
+#Add a sleep
+sleep 1
